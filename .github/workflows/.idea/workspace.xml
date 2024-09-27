@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_CXX_STANDARD=11" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e69c7d6-3516-4cd2-aa03-2518fc6797e7" name="Changes" comment="C++">
+      <change afterPath="$PROJECT_DIR$/bubble_sort_custom.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2c2t05kWkc67q034dnLSoXoNNSs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.insertion_sort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ericdelorefice/CLionProjects/CSC2710-Working&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CSC2710-working" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="insertion_sort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CSC2710" TARGET_NAME="insertion_sort.cpp" CONFIG_NAME="insertion_sort.cpp">
+      <option name="sourceFile" value="insertion_sort.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.insertion_sort.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e69c7d6-3516-4cd2-aa03-2518fc6797e7" name="Changes" comment="" />
+      <created>1707321276378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707321276378</updated>
+      <workItem from="1707497764989" duration="2767000" />
+      <workItem from="1707510797056" duration="107000" />
+      <workItem from="1707511763192" duration="12000" />
+      <workItem from="1707511805706" duration="12000" />
+      <workItem from="1707511856546" duration="128000" />
+      <workItem from="1707512009474" duration="144000" />
+      <workItem from="1707512206600" duration="1171000" />
+      <workItem from="1707513395686" duration="321000" />
+      <workItem from="1707513727403" duration="398000" />
+      <workItem from="1707753345410" duration="36000" />
+      <workItem from="1707753406023" duration="11000" />
+      <workItem from="1707753422266" duration="95000" />
+      <workItem from="1707754296688" duration="35000" />
+      <workItem from="1707754358325" duration="2000" />
+      <workItem from="1707754506817" duration="7000" />
+      <workItem from="1707755325494" duration="16000" />
+      <workItem from="1707755454790" duration="8000" />
+      <workItem from="1707755646342" duration="837000" />
+      <workItem from="1707835000863" duration="2905000" />
+      <workItem from="1707928324006" duration="1071000" />
+      <workItem from="1708359322807" duration="156000" />
+      <workItem from="1708359487658" duration="15000" />
+      <workItem from="1708359756804" duration="2000" />
+      <workItem from="1708360387848" duration="932000" />
+      <workItem from="1708484291460" duration="2000" />
+      <workItem from="1708484326600" duration="18000" />
+      <workItem from="1708484710633" duration="24000" />
+      <workItem from="1708484849337" duration="128000" />
+      <workItem from="1708485016251" duration="189000" />
+      <workItem from="1708485418748" duration="545000" />
+      <workItem from="1708490077542" duration="38000" />
+      <workItem from="1708530426626" duration="215000" />
+      <workItem from="1708533607197" duration="1746000" />
+      <workItem from="1708703929776" duration="9000" />
+      <workItem from="1708704682271" duration="52000" />
+    </task>
+    <task id="LOCAL-00001" summary="C++">
+      <option name="closed" value="true" />
+      <created>1707512299945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707512299945</updated>
+    </task>
+    <task id="LOCAL-00002" summary="C++">
+      <option name="closed" value="true" />
+      <created>1707755659198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707755659198</updated>
+    </task>
+    <task id="LOCAL-00003" summary="C++">
+      <option name="closed" value="true" />
+      <created>1707928491949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707928491949</updated>
+    </task>
+    <task id="LOCAL-00004" summary="C++">
+      <option name="closed" value="true" />
+      <created>1707928721080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707928721080</updated>
+    </task>
+    <task id="LOCAL-00005" summary="C++">
+      <option name="closed" value="true" />
+      <created>1708360470266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708360470266</updated>
+    </task>
+    <task id="LOCAL-00006" summary="C++">
+      <option name="closed" value="true" />
+      <created>1708360629990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708360629990</updated>
+    </task>
+    <task id="LOCAL-00007" summary="C++">
+      <option name="closed" value="true" />
+      <created>1708484864311</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708484864311</updated>
+    </task>
+    <task id="LOCAL-00008" summary="C++">
+      <option name="closed" value="true" />
+      <created>1708485058658</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708485058658</updated>
+    </task>
+    <task id="LOCAL-00009" summary="C++">
+      <option name="closed" value="true" />
+      <created>1708485518368</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708485518368</updated>
+    </task>
+    <task id="LOCAL-00010" summary="C++">
+      <option name="closed" value="true" />
+      <created>1708490095558</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708490095558</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="C++" />
+    <option name="LAST_COMMIT_MESSAGE" value="C++" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/insertion_sort.cpp</url>
+          <line>77</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
