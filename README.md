@@ -55,4 +55,7 @@ Each sorting algorithm is implemented in a separate C++ file. Please execute the
 
 ```C++
 # Example usage of insertion_sort.cpp
-C++ insertion_sort.cpp
+Compiling:
+  - g++ -o program program.cpp
+Running:
+  - ./program
